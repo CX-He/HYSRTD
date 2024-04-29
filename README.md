@@ -21,7 +21,6 @@ Also if there is anything we can help you with, please don't hesitate to contact
 
 Again, thank you for your valuable support, and we are very eager for your comment and guidance.
 
-<br>
 Sincerely yours
 
 Chengxun He
