@@ -4,10 +4,9 @@ For more information, please refer to the paper:
 
 
 @article{he2024connecting,
-
-	title={Connecting Low-Level and High-Level Visions: A Joint Optimization for Hyperspectral Image Super-Resolution and Target Detection},
+	title={Connecting Low-Level and High-Level Visions: A Joint Optimization for Hyperspectral Image Super-Resolution and Target Detection}, 
  
-	author={He, Chengxun and Xu,Yang and Wu, Zebin and Wei, Zhihui},
+	author={He, Chengxun and Xu,Yang and Wu, Zebin and Wei, Zhihui}, 
  
 	journal={IEEE Trans. Geosci. Remote Sens.},
  
